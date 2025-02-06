@@ -96,7 +96,7 @@ npm start
 
 ## Deployed Version
 
-The app has been deployed and can be accessed here:
+The app has been deployed using Vercel and can be accessed here:
 
 [Deployed Link](https://translate-application-client.vercel.app/)
 
