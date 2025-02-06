@@ -22,7 +22,7 @@ export default function Translate() {
     }
 
     try {
-      let translation = await axios.post(`http://192.168.56.1:3001/translate`, {
+      let translation = await axios.post(`https://translate-application-server-lm9ug6191.vercel.app/translate`, {
         text: inputText,
         sourceLang: selectedLanguage, // pass the language code
       });
