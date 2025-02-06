@@ -109,16 +109,16 @@ The app has been deployed using Vercel and can be accessed here:
 
 ## Acknowledgements
 
-- **Google Translate API**: 
+- [Google Translate API](https://cloud.google.com/translate/docs/reference/rest): 
   Thank you to Google for providing the Google Translate API, which powers the translation feature of this app.
 
-- **Figma**: 
+- [Figma](https://www.figma.com/): 
   Special thanks to Figma for being the design tool used to create the UI/UX of this app. Its powerful features enabled a smooth design process.
 
-- **Canva**: 
+- [Canva](https://www.canva.com/): 
   A big thanks to Canva for helping with the creation of project graphics and promotional materials, providing easy-to-use tools for design.
 
-- **React**: 
+- [React](https://react.dev/): 
   ReactJS was used as the frontend framework for building the interactive and dynamic user interface of this app. Thanks to the React community for their continued support and innovation.
 
 
