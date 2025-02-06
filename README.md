@@ -102,6 +102,23 @@ The app has been deployed and can be accessed here:
 
 ## Usage
 
+- Choose language and text direction.
 - Enter any text in the input field.
 - Click the "Translate" button.
 - View the translated text displayed on the screen.
+
+## Acknowledgements
+
+- **Google Translate API**: 
+  Thank you to Google for providing the Google Translate API, which powers the translation feature of this app.
+
+- **Figma**: 
+  Special thanks to Figma for being the design tool used to create the UI/UX of this app. Its powerful features enabled a smooth design process.
+
+- **Canva**: 
+  A big thanks to Canva for helping with the creation of project graphics and promotional materials, providing easy-to-use tools for design.
+
+- **React**: 
+  ReactJS was used as the frontend framework for building the interactive and dynamic user interface of this app. Thanks to the React community for their continued support and innovation.
+
+
