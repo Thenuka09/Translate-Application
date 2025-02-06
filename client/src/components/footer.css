@@ -1,0 +1,18 @@
+.footerClass {
+    background-color: #167D7F;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    width: 100%;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.15);
+    position: relative;
+    clear: both;
+    margin-top: 55%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}

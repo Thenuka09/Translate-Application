@@ -1,0 +1,53 @@
+.hero img {
+    width: 100%;
+    margin: 0;
+}
+
+.hero .buttons {
+    display: flex;
+    position: relative;
+    margin-top: -95px;
+    margin-left: 55px;
+}
+
+.hero .buttons .btnGetStarted {
+    width: 144px;
+    height: 43px;
+    font-size: 15px;
+    background-color: #167D7F;
+    border-radius: 10px;
+    border: 1px solid #167D7F;
+    color: #ffffff;
+    font-weight: 600;
+    margin-right: 24px;
+    font-family: "Poppins", serif;
+    letter-spacing: 0.7px;
+}
+
+.hero .buttons .btnGetStarted:hover {
+    background-color: #2f7172;
+    word-spacing: 1px;
+    border: 1px sloid #2f7172;
+    font-family: "Poppins", serif;
+}
+
+.hero .buttons .btnLearnMore {
+    width: 144px;
+    height: 43px;
+    font-size: 15px;
+    background-color: #29A0B1;
+    border-radius: 10px;
+    border: 1px solid #29A0B1;
+    color: #ffffff;
+    font-weight: 600;
+    margin-right: 24px;
+    font-family: "Poppins", serif;
+    letter-spacing: 0.7px;
+}
+
+.hero .buttons .btnLearnMore:hover {
+    background-color: #40afc0;
+    word-spacing: 1px;
+    border: 1px sloid #40afc0;
+    font-family: "Poppins", serif;
+}
